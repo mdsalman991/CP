@@ -1,0 +1,3 @@
+Time complexity of heap sort is O(n log n). Since each call to heapify costs O(log n) and build-heap makes O(n) such calls.
+
+In binary heap tree insertion and deleting costs O(log n), searching takes O(n) while peek operation takes O(1) time.

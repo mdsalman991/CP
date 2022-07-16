@@ -1,0 +1,15 @@
+1. Cross-question: Once the interviewer has explained the question to you, don’t directly start thinking about the solution.
+
+  - Ensure that you’ve interpreted the question correctly, and ask about edge cases like ‘0’ nodes, null pointers or empty strings.
+  - This shows analytical thinking and also saves you from solving a mis-interpreted question.
+
+2. Don’t jump into code: Once you’ve understood the question, do NOT jump into code directly. “Think out loud”!
+
+  - Take a moment to gather your thoughts, and then explain everything from your intuition to the proposed solution step by step.
+  - In case you can’t seem to find a solution, just start by bouncing off intuitions and ideas. It helps the interviewer understand your thought process and can help you crack the interview even after failing to solve the question.
+
+3. Write clean code: All of us know that this is super important, so how should you go about it?
+
+  - Use meaningful variable names. Avoid using temp, x, y etc., and instead use count, start, end etc. Your variable names should denote what they store and function names should denote what they do..
+  
+  // placement tip
